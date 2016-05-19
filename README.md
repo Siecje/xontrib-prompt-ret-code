@@ -8,7 +8,7 @@ fatal: Not a git repository (or any of the parent directories): .git
 cody@cody-ubuntu16 ~ [128]$ 
 ```
 
-(demo.png)
+![Demo](https://raw.githubusercontent.com/Siecje/xontrib-prompt-ret-code/master/demo.png)
 
 
 ## Install
