@@ -12,7 +12,7 @@ except ImportError:
 
 setup(
     name='xontrib-prompt-ret-code',
-    version='1.0.0',
+    version='1.0.1',
     description='Adds return code info to xonsh prompt.',
     long_description=__doc__,
     license='MIT',
