@@ -1,6 +1,6 @@
 # Xontrib Prompt Ret Code
 
-Modify the (xonsh)[https://xon.sh] prompt to include the return code of the last failed command.
+Modify the [xonsh](https://xon.sh) prompt to include the return code of the last failed command.
 
 ```shell
 cody@cody-ubuntu16 ~ $ git status
