@@ -1,5 +1,7 @@
 # Xontrib Prompt Ret Code
 
+## ** This has been merged into xonsh itself. Please do not use this version! **
+
 Modify the [xonsh](https://xon.sh) prompt to include the return code of the last failed command.
 
 ```shell
